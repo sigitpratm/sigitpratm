@@ -42,5 +42,5 @@
 ---
 
 ### 📫 Connect with Me
-* 📧 Email: [sigitama19@gmail.com](mailto:sigitama19@gmail.com)
+* 📧 Email: sigitama19@gmail.com
 * 📍 Location: Bandung, West Java, Indonesia
