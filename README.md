@@ -6,14 +6,13 @@ Saya ngerjain frontend yang bukan cuma jalan, tapi juga aman, aksesibel, dan ena
 
 ---
 
-## 🛡️ Yang saya peduliin
-
-| Area | Praktik |
-| --- | --- |
-| **Aksesibilitas** | Semantik HTML native (`<button>` > `role="button"`), interaksi keyboard sesuai WCAG |
-| **Keamanan** | Sanitasi HTML dengan DOMPurify, menangani `bypassSecurityTrustHtml` dengan benar |
-| **Arsitektur** | Komponen yang reusable, scope API yang jelas, state UI yang konsisten |
-| **Kualitas kode** | Linting ketat, SonarQube bersih |
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sigitpratm/sigitpratm/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sigitpratm/sigitpratm/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sigitpratm/sigitpratm/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ## 🧰 Tech & Tools
 
