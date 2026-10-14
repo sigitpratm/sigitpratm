@@ -35,7 +35,6 @@ Suka diskusi soal Angular, aksesibilitas web, dan frontend security. Bahasa Indo
 
 ---
 
-<!-- Opsional: ganti USERNAME dengan username GitHub kamu -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sigitpratm&show_icons=true&hide_border=true" alt="GitHub stats" />
 </p>
